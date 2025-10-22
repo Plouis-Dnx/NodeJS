@@ -22,5 +22,6 @@ router.get('/', getUsers);
 * Contrôleur associé : addUser (défini dans user.controller.ts)
 */
 router.post('/', addUser);
+
 // Exportation du routeur pour l'utiliser dans index.ts
 export default router;
