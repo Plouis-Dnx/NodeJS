@@ -11,7 +11,7 @@ Dans votre terminal, installez les paquets manquants : \
 
 ## Lancement
 Lancez le serveur avec ```npm run dev``` \
-Vous devriez voir quelque chose comme : \ 
+Vous devriez voir quelque chose comme : 
 ![Alt text](./images_tests/console/message_serveur.png "Message de lancement du serveur")
 
 ## Description des Routes
@@ -28,10 +28,10 @@ Vous devriez voir quelque chose comme : \
 
 ### Postman
 GET http://localhost:4000/ \
-![Alt text](./images_tests/postman/getRoot_postman.png) \
+![Alt text](./images_tests/postman/getRoot_postman.png) 
 
 GET http://localhost:4000/users : \
-![Alt text](./images_tests/postman/curlGET_users_PostMan.png) \
+![Alt text](./images_tests/postman/curlGET_users_PostMan.png) 
 
 POST http://localhost:4000/users \
 ![Alt text](./images_tests/postman/POST_postman.png)
